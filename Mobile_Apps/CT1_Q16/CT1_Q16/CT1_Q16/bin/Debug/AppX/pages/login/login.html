@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>login</title>
+
+    <link href="login.css" rel="stylesheet" />
+    <script src="login.js"></script>
+</head>
+<body>
+    <div class="login fragment">
+        <header class="page-header" aria-label="Header content" role="banner">
+            <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Welcome to login</span>
+            </h1>
+        </header>
+        <section class="page-section" aria-label="Main content" role="main">
+           <div style="position:relative; top:150px; left:250px">
+               <table>
+                   <tr><td>ID</td><td><input type="text" id="lidtxt" /></td></tr>
+                   <tr><td>PASS</td><td><input type="text" id="lpasstxt" /></td></tr>
+                   <tr><td><input type="button" value="Login" id="lloginBtn" /></td><td><input type="button" value="Register" id="lregisterBtn" /></td></tr>
+                   </table>
+
+               <p id="lmsg"></p>
+
+               </div>
+        </section>
+    </div>
+</body>
+</html>

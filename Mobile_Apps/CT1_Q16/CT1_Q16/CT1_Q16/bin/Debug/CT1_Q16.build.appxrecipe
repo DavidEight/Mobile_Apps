@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>jszx2017-167</Machine>
+    <WindowsUser>NIIT</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>dc9c2e26-a054-46c4-9920-b4a03e0511c1</PackageIdentityName>
+    <PackageIdentityPublisher>CN=NIIT</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\login\login.css">
+      <PackagePath>pages\login\login.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\register\register.css">
+      <PackagePath>pages\register\register.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\login\login.js">
+      <PackagePath>pages\login\login.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\register\register.js">
+      <PackagePath>pages\register\register.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\login\login.html">
+      <PackagePath>pages\login\login.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\register\register.html">
+      <PackagePath>pages\register\register.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

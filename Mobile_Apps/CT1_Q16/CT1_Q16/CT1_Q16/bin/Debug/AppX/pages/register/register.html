@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>register</title>
+
+    <link href="register.css" rel="stylesheet" />
+    <script src="register.js"></script>
+</head>
+<body>
+    <div class="register fragment">
+        <header class="page-header" aria-label="Header content" role="banner">
+            <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Welcome to register</span>
+            </h1>
+        </header>
+        <section class="page-section" aria-label="Main content" role="main">
+            <div style="position:relative; top:150px; left:250px">
+                <table>
+                    <tr><td>ID</td><td><input type="text" id="ridtxt" /></td></tr>
+                    <tr><td>PASS</td><td><input type="text" id="rpasstxt" /></td></tr>
+                    <tr><td>CONFIRM PASS</td><td><input type="text" id="rcpasstxt" /></td></tr>
+                    <tr><td colspan="2"><input type="button" value="Register" id="rregisterBtn" /></td></tr>
+                </table>
+
+                <p id="rmsg"></p>
+
+            </div>
+        </section>
+    </div>
+</body>
+</html>

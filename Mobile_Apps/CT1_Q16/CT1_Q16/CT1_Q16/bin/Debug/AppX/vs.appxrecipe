@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>jszx2017-167</Machine>
+    <WindowsUser>NIIT</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>dc9c2e26-a054-46c4-9920-b4a03e0511c1</PackageIdentityName>
+    <PackageIdentityPublisher>CN=NIIT</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>8E6E611A294D79E9FB7969236720DFF46F365A11374B74573F2018B7B5768FF3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>dc9c2e26-a054-46c4-9920-b4a03e0511c1_1.0.0.0_neutral__wc3vckwy40swa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>dc9c2e26-a054-46c4-9920-b4a03e0511c1_wc3vckwy40swa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>dc9c2e26-a054-46c4-9920-b4a03e0511c1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=NIIT</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-03T00:21:51.067</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-04-03T00:14:02.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2018-04-03T00:14:02.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\login\login.css">
+      <PackagePath>pages\login\login.css</PackagePath>
+      <Modified>2018-04-03T00:16:51.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\register\register.css">
+      <PackagePath>pages\register\register.css</PackagePath>
+      <Modified>2018-04-03T00:17:22.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T14:04:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T14:04:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T14:04:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T14:04:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2018-04-03T00:14:02.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2018-04-03T00:14:02.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2018-04-03T00:14:02.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\login\login.js">
+      <PackagePath>pages\login\login.js</PackagePath>
+      <Modified>2018-04-03T01:40:53.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\register\register.js">
+      <PackagePath>pages\register\register.js</PackagePath>
+      <Modified>2018-04-03T01:37:20.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2018-04-03T00:17:59.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2018-04-03T00:22:29.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\login\login.html">
+      <PackagePath>pages\login\login.html</PackagePath>
+      <Modified>2018-04-03T01:33:45.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\pages\register\register.html">
+      <PackagePath>pages\register\register.html</PackagePath>
+      <Modified>2018-04-03T01:36:19.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\niit\documents\visual studio 2015\Projects\CT1_Q16\CT1_Q16\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2018-04-03T00:21:50.676</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
